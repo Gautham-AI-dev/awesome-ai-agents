@@ -37,6 +37,7 @@
 - [Botpress](https://github.com/botpress/botpress) – Platform for conversational and task-focused agents.
 - [Mastra](https://github.com/mastra-ai/mastra) – TypeScript/Node.js framework for agentic applications.
 - [Kitaru](https://github.com/zenml-io/kitaru) – Durable execution framework for AI agents with checkpoints, replay, and stateful workflows using Python control flow.
+- [task-automator](https://github.com/Gautham-AI-dev/task-automator) – Crash-safe batch runner for headless AI coding agents: artifact-verified completion, cost ledger with budget caps, stall watchdog, and an optional DBOS + Postgres durable layer with approval gates.
 
 ## Multi-Agent Orchestration
 
